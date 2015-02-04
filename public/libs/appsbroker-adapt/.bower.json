@@ -1,0 +1,43 @@
+{
+  "name": "adapt",
+  "version": "0.6.9",
+  "authors": [
+    "Appsbroker"
+  ],
+  "license": "MIT",
+  "main": "dist/adapt.js",
+  "ignore": [
+    "**/.*",
+    "examples",
+    "gulp",
+    "lib",
+    "node_modules",
+    "src",
+    "test",
+    "themes",
+    "validate-commit-msg.js",
+    "package.json",
+    "gulpfile.js",
+    "index.html"
+  ],
+  "dependencies": {
+    "react": "~0.11.1"
+  },
+  "devDependencies": {
+    "es5-shim": "~4.0.3",
+    "traceur-runtime": "~0.0.65"
+  },
+  "resolutions": {
+    "react": "~0.12.1"
+  },
+  "_release": "0.6.9",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.6.9",
+    "commit": "371c72b1c4795884d40b50a1dfed65cbe6c6e553"
+  },
+  "_source": "ssh://git@git.appsbroker.com/adapt",
+  "_target": "~0.6.9",
+  "_originalSource": "appsbroker-adapt",
+  "_direct": true
+}
