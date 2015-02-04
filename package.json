@@ -1,0 +1,14 @@
+{
+  "name": "SoundShare",
+  "description": "Play SoundCloud Tracks in Real-Time",
+  "author": "Jilles Soeters",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jillesme/SoundShare"
+  },
+  "version": "0.0.1",
+  "devDependencies": {
+    "express": "^4.9.7",
+    "socket.io": "^1.1.0"
+  }
+}
